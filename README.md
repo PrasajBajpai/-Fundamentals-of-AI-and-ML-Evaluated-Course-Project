@@ -31,7 +31,7 @@ movie-recommendation-system/
  Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/movie-recommendation-system.git
+git clone https://github.com/PrasajBajpai/-Fundamentals-of-AI-and-ML-Evaluated-Course-Project
 
 2. Navigate to the project folder:
 cd movie-recommendation-system
@@ -49,7 +49,7 @@ Then enter a movie name:
 Enter a movie name: Avatar
 
  Example Output
-🎥 Top Recommendations for 'Avatar':
+Top Recommendations for 'Avatar':
 
 Avengers  
 Interstellar  
